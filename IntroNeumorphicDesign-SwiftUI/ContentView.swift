@@ -9,8 +9,17 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        VStack {
+            
+            NeumorphicImageButton(systemName: "heart.fill") {
+                
+            }
+                .padding()
+            
+            Text("Hello, world!")
+                .padding()
+        }.frame(maxWidth: .infinity, maxHeight: .infinity)
+            .background(.clear)
     }
 }
 

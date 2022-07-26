@@ -11,6 +11,8 @@
 		3BB4363F2890771E00E3A969 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4363E2890771E00E3A969 /* ContentView.swift */; };
 		3BB436412890772100E3A969 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BB436402890772100E3A969 /* Assets.xcassets */; };
 		3BB436442890772100E3A969 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BB436432890772100E3A969 /* Preview Assets.xcassets */; };
+		3BB4364B2890776C00E3A969 /* NeumorphicImageButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4364A2890776C00E3A969 /* NeumorphicImageButton.swift */; };
+		3BB4364D2890A70900E3A969 /* MusicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB4364C2890A70900E3A969 /* MusicView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		3BB4363E2890771E00E3A969 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3BB436402890772100E3A969 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BB436432890772100E3A969 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3BB4364A2890776C00E3A969 /* NeumorphicImageButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeumorphicImageButton.swift; sourceTree = "<group>"; };
+		3BB4364C2890A70900E3A969 /* MusicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				3BB4363C2890771E00E3A969 /* IntroNeumorphicDesign_SwiftUIApp.swift */,
 				3BB4363E2890771E00E3A969 /* ContentView.swift */,
+				3BB4364A2890776C00E3A969 /* NeumorphicImageButton.swift */,
+				3BB4364C2890A70900E3A969 /* MusicView.swift */,
 				3BB436402890772100E3A969 /* Assets.xcassets */,
 				3BB436422890772100E3A969 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				3BB4363F2890771E00E3A969 /* ContentView.swift in Sources */,
+				3BB4364B2890776C00E3A969 /* NeumorphicImageButton.swift in Sources */,
+				3BB4364D2890A70900E3A969 /* MusicView.swift in Sources */,
 				3BB4363D2890771E00E3A969 /* IntroNeumorphicDesign_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
